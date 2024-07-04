@@ -1,0 +1,3218 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="grids_thimphu" id="grids_thimphu">
+	<SimpleField name="Maille" type="float"></SimpleField>
+	<SimpleField name="Maille_Y" type="float"></SimpleField>
+	<SimpleField name="Maille_X" type="float"></SimpleField>
+	<SimpleField name="X" type="string"></SimpleField>
+	<SimpleField name="Y" type="string"></SimpleField>
+	<SimpleField name="X1" type="string"></SimpleField>
+	<SimpleField name="Y1" type="string"></SimpleField>
+	<SimpleField name="X2" type="string"></SimpleField>
+	<SimpleField name="Y2" type="string"></SimpleField>
+	<SimpleField name="area_cell" type="string"></SimpleField>
+</Schema>
+<Folder><name>grids_thimphu</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">1</SimpleData>
+		<SimpleData name="Maille_Y">1</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.4050</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.4000</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.4100</SimpleData>
+		<SimpleData name="area_cell">1.0968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.41 89.61,27.41 89.61,27.4 89.6,27.4 89.6,27.41</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">2</SimpleData>
+		<SimpleData name="Maille_Y">1</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.4050</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.4000</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.4100</SimpleData>
+		<SimpleData name="area_cell">1.0968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.41 89.62,27.41 89.62,27.4 89.61,27.4 89.61,27.41</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">3</SimpleData>
+		<SimpleData name="Maille_Y">1</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.4050</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.4000</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.4100</SimpleData>
+		<SimpleData name="area_cell">1.0968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.41 89.63,27.41 89.63,27.4 89.62,27.4 89.62,27.41</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">4</SimpleData>
+		<SimpleData name="Maille_Y">1</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.4050</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.4000</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.4100</SimpleData>
+		<SimpleData name="area_cell">1.0968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.41 89.64,27.41 89.64,27.4 89.63,27.4 89.63,27.41</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">5</SimpleData>
+		<SimpleData name="Maille_Y">1</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.4050</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.4000</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.4100</SimpleData>
+		<SimpleData name="area_cell">1.0968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.41 89.65,27.41 89.65,27.4 89.64,27.4 89.64,27.41</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">6</SimpleData>
+		<SimpleData name="Maille_Y">1</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.4050</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.4000</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.4100</SimpleData>
+		<SimpleData name="area_cell">1.0969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.41 89.66,27.41 89.66,27.4 89.65,27.4 89.65,27.41</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">7</SimpleData>
+		<SimpleData name="Maille_Y">1</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.4050</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.4000</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.4100</SimpleData>
+		<SimpleData name="area_cell">1.0969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.41 89.67,27.41 89.67,27.4 89.66,27.4 89.66,27.41</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">8</SimpleData>
+		<SimpleData name="Maille_Y">1</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.4050</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.4000</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.4100</SimpleData>
+		<SimpleData name="area_cell">1.0969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.41 89.68,27.41 89.68,27.4 89.67,27.4 89.67,27.41</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">9</SimpleData>
+		<SimpleData name="Maille_Y">1</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.4050</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.4000</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.4100</SimpleData>
+		<SimpleData name="area_cell">1.0969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.41 89.69,27.41 89.69,27.4 89.68,27.4 89.68,27.41</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">10</SimpleData>
+		<SimpleData name="Maille_Y">1</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.4050</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.4000</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.4100</SimpleData>
+		<SimpleData name="area_cell">1.0969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.41 89.7,27.41 89.7,27.4 89.69,27.4 89.69,27.41</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">11</SimpleData>
+		<SimpleData name="Maille_Y">2</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.4150</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.4100</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.4200</SimpleData>
+		<SimpleData name="area_cell">1.0967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.42 89.61,27.42 89.61,27.41 89.6,27.41 89.6,27.42</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">12</SimpleData>
+		<SimpleData name="Maille_Y">2</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.4150</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.4100</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.4200</SimpleData>
+		<SimpleData name="area_cell">1.0967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.42 89.62,27.42 89.62,27.41 89.61,27.41 89.61,27.42</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">13</SimpleData>
+		<SimpleData name="Maille_Y">2</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.4150</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.4100</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.4200</SimpleData>
+		<SimpleData name="area_cell">1.0967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.42 89.63,27.42 89.63,27.41 89.62,27.41 89.62,27.42</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">14</SimpleData>
+		<SimpleData name="Maille_Y">2</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.4150</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.4100</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.4200</SimpleData>
+		<SimpleData name="area_cell">1.0967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.42 89.64,27.42 89.64,27.41 89.63,27.41 89.63,27.42</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">15</SimpleData>
+		<SimpleData name="Maille_Y">2</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.4150</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.4100</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.4200</SimpleData>
+		<SimpleData name="area_cell">1.0968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.42 89.65,27.42 89.65,27.41 89.64,27.41 89.64,27.42</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">16</SimpleData>
+		<SimpleData name="Maille_Y">2</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.4150</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.4100</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.4200</SimpleData>
+		<SimpleData name="area_cell">1.0968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.42 89.66,27.42 89.66,27.41 89.65,27.41 89.65,27.42</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">17</SimpleData>
+		<SimpleData name="Maille_Y">2</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.4150</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.4100</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.4200</SimpleData>
+		<SimpleData name="area_cell">1.0968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.42 89.67,27.42 89.67,27.41 89.66,27.41 89.66,27.42</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">18</SimpleData>
+		<SimpleData name="Maille_Y">2</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.4150</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.4100</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.4200</SimpleData>
+		<SimpleData name="area_cell">1.0968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.42 89.68,27.42 89.68,27.41 89.67,27.41 89.67,27.42</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">19</SimpleData>
+		<SimpleData name="Maille_Y">2</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.4150</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.4100</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.4200</SimpleData>
+		<SimpleData name="area_cell">1.0968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.42 89.69,27.42 89.69,27.41 89.68,27.41 89.68,27.42</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">20</SimpleData>
+		<SimpleData name="Maille_Y">2</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.4150</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.4100</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.4200</SimpleData>
+		<SimpleData name="area_cell">1.0968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.42 89.7,27.42 89.7,27.41 89.69,27.41 89.69,27.42</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">21</SimpleData>
+		<SimpleData name="Maille_Y">3</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.4250</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.4200</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.4300</SimpleData>
+		<SimpleData name="area_cell">1.0966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.43 89.61,27.43 89.61,27.42 89.6,27.42 89.6,27.43</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">22</SimpleData>
+		<SimpleData name="Maille_Y">3</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.4250</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.4200</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.4300</SimpleData>
+		<SimpleData name="area_cell">1.0966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.43 89.62,27.43 89.62,27.42 89.61,27.42 89.61,27.43</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">23</SimpleData>
+		<SimpleData name="Maille_Y">3</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.4250</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.4200</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.4300</SimpleData>
+		<SimpleData name="area_cell">1.0966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.43 89.63,27.43 89.63,27.42 89.62,27.42 89.62,27.43</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">24</SimpleData>
+		<SimpleData name="Maille_Y">3</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.4250</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.4200</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.4300</SimpleData>
+		<SimpleData name="area_cell">1.0966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.43 89.64,27.43 89.64,27.42 89.63,27.42 89.63,27.43</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">25</SimpleData>
+		<SimpleData name="Maille_Y">3</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.4250</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.4200</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.4300</SimpleData>
+		<SimpleData name="area_cell">1.0967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.43 89.65,27.43 89.65,27.42 89.64,27.42 89.64,27.43</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">26</SimpleData>
+		<SimpleData name="Maille_Y">3</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.4250</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.4200</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.4300</SimpleData>
+		<SimpleData name="area_cell">1.0967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.43 89.66,27.43 89.66,27.42 89.65,27.42 89.65,27.43</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">27</SimpleData>
+		<SimpleData name="Maille_Y">3</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.4250</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.4200</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.4300</SimpleData>
+		<SimpleData name="area_cell">1.0967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.43 89.67,27.43 89.67,27.42 89.66,27.42 89.66,27.43</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">28</SimpleData>
+		<SimpleData name="Maille_Y">3</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.4250</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.4200</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.4300</SimpleData>
+		<SimpleData name="area_cell">1.0967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.43 89.68,27.43 89.68,27.42 89.67,27.42 89.67,27.43</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">29</SimpleData>
+		<SimpleData name="Maille_Y">3</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.4250</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.4200</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.4300</SimpleData>
+		<SimpleData name="area_cell">1.0967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.43 89.69,27.43 89.69,27.42 89.68,27.42 89.68,27.43</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">30</SimpleData>
+		<SimpleData name="Maille_Y">3</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.4250</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.4200</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.4300</SimpleData>
+		<SimpleData name="area_cell">1.0967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.43 89.7,27.43 89.7,27.42 89.69,27.42 89.69,27.43</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">31</SimpleData>
+		<SimpleData name="Maille_Y">4</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.4350</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.4300</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.4400</SimpleData>
+		<SimpleData name="area_cell">1.0965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.44 89.61,27.44 89.61,27.43 89.6,27.43 89.6,27.44</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">32</SimpleData>
+		<SimpleData name="Maille_Y">4</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.4350</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.4300</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.4400</SimpleData>
+		<SimpleData name="area_cell">1.0965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.44 89.62,27.44 89.62,27.43 89.61,27.43 89.61,27.44</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">33</SimpleData>
+		<SimpleData name="Maille_Y">4</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.4350</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.4300</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.4400</SimpleData>
+		<SimpleData name="area_cell">1.0965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.44 89.63,27.44 89.63,27.43 89.62,27.43 89.62,27.44</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">34</SimpleData>
+		<SimpleData name="Maille_Y">4</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.4350</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.4300</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.4400</SimpleData>
+		<SimpleData name="area_cell">1.0965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.44 89.64,27.44 89.64,27.43 89.63,27.43 89.63,27.44</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">35</SimpleData>
+		<SimpleData name="Maille_Y">4</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.4350</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.4300</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.4400</SimpleData>
+		<SimpleData name="area_cell">1.0966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.44 89.65,27.44 89.65,27.43 89.64,27.43 89.64,27.44</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">36</SimpleData>
+		<SimpleData name="Maille_Y">4</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.4350</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.4300</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.4400</SimpleData>
+		<SimpleData name="area_cell">1.0966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.44 89.66,27.44 89.66,27.43 89.65,27.43 89.65,27.44</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">37</SimpleData>
+		<SimpleData name="Maille_Y">4</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.4350</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.4300</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.4400</SimpleData>
+		<SimpleData name="area_cell">1.0966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.44 89.67,27.44 89.67,27.43 89.66,27.43 89.66,27.44</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">38</SimpleData>
+		<SimpleData name="Maille_Y">4</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.4350</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.4300</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.4400</SimpleData>
+		<SimpleData name="area_cell">1.0966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.44 89.68,27.44 89.68,27.43 89.67,27.43 89.67,27.44</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">39</SimpleData>
+		<SimpleData name="Maille_Y">4</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.4350</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.4300</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.4400</SimpleData>
+		<SimpleData name="area_cell">1.0966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.44 89.69,27.44 89.69,27.43 89.68,27.43 89.68,27.44</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">40</SimpleData>
+		<SimpleData name="Maille_Y">4</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.4350</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.4300</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.4400</SimpleData>
+		<SimpleData name="area_cell">1.0966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.44 89.7,27.44 89.7,27.43 89.69,27.43 89.69,27.44</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">41</SimpleData>
+		<SimpleData name="Maille_Y">5</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.4450</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.4400</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.4500</SimpleData>
+		<SimpleData name="area_cell">1.0964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.45 89.61,27.45 89.61,27.44 89.6,27.44 89.6,27.45</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">42</SimpleData>
+		<SimpleData name="Maille_Y">5</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.4450</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.4400</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.4500</SimpleData>
+		<SimpleData name="area_cell">1.0964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.45 89.62,27.45 89.62,27.44 89.61,27.44 89.61,27.45</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">43</SimpleData>
+		<SimpleData name="Maille_Y">5</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.4450</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.4400</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.4500</SimpleData>
+		<SimpleData name="area_cell">1.0964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.45 89.63,27.45 89.63,27.44 89.62,27.44 89.62,27.45</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">44</SimpleData>
+		<SimpleData name="Maille_Y">5</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.4450</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.4400</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.4500</SimpleData>
+		<SimpleData name="area_cell">1.0964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.45 89.64,27.45 89.64,27.44 89.63,27.44 89.63,27.45</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">45</SimpleData>
+		<SimpleData name="Maille_Y">5</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.4450</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.4400</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.4500</SimpleData>
+		<SimpleData name="area_cell">1.0965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.45 89.65,27.45 89.65,27.44 89.64,27.44 89.64,27.45</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">46</SimpleData>
+		<SimpleData name="Maille_Y">5</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.4450</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.4400</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.4500</SimpleData>
+		<SimpleData name="area_cell">1.0965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.45 89.66,27.45 89.66,27.44 89.65,27.44 89.65,27.45</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">47</SimpleData>
+		<SimpleData name="Maille_Y">5</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.4450</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.4400</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.4500</SimpleData>
+		<SimpleData name="area_cell">1.0965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.45 89.67,27.45 89.67,27.44 89.66,27.44 89.66,27.45</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">48</SimpleData>
+		<SimpleData name="Maille_Y">5</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.4450</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.4400</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.4500</SimpleData>
+		<SimpleData name="area_cell">1.0965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.45 89.68,27.45 89.68,27.44 89.67,27.44 89.67,27.45</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">49</SimpleData>
+		<SimpleData name="Maille_Y">5</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.4450</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.4400</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.4500</SimpleData>
+		<SimpleData name="area_cell">1.0965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.45 89.69,27.45 89.69,27.44 89.68,27.44 89.68,27.45</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">50</SimpleData>
+		<SimpleData name="Maille_Y">5</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.4450</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.4400</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.4500</SimpleData>
+		<SimpleData name="area_cell">1.0965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.45 89.7,27.45 89.7,27.44 89.69,27.44 89.69,27.45</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">51</SimpleData>
+		<SimpleData name="Maille_Y">6</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.4550</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.4500</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.4600</SimpleData>
+		<SimpleData name="area_cell">1.0963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.46 89.61,27.46 89.61,27.45 89.6,27.45 89.6,27.46</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">52</SimpleData>
+		<SimpleData name="Maille_Y">6</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.4550</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.4500</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.4600</SimpleData>
+		<SimpleData name="area_cell">1.0963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.46 89.62,27.46 89.62,27.45 89.61,27.45 89.61,27.46</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">53</SimpleData>
+		<SimpleData name="Maille_Y">6</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.4550</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.4500</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.4600</SimpleData>
+		<SimpleData name="area_cell">1.0963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.46 89.63,27.46 89.63,27.45 89.62,27.45 89.62,27.46</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">54</SimpleData>
+		<SimpleData name="Maille_Y">6</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.4550</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.4500</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.4600</SimpleData>
+		<SimpleData name="area_cell">1.0963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.46 89.64,27.46 89.64,27.45 89.63,27.45 89.63,27.46</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">55</SimpleData>
+		<SimpleData name="Maille_Y">6</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.4550</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.4500</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.4600</SimpleData>
+		<SimpleData name="area_cell">1.0964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.46 89.65,27.46 89.65,27.45 89.64,27.45 89.64,27.46</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">56</SimpleData>
+		<SimpleData name="Maille_Y">6</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.4550</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.4500</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.4600</SimpleData>
+		<SimpleData name="area_cell">1.0964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.46 89.66,27.46 89.66,27.45 89.65,27.45 89.65,27.46</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">57</SimpleData>
+		<SimpleData name="Maille_Y">6</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.4550</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.4500</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.4600</SimpleData>
+		<SimpleData name="area_cell">1.0964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.46 89.67,27.46 89.67,27.45 89.66,27.45 89.66,27.46</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">58</SimpleData>
+		<SimpleData name="Maille_Y">6</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.4550</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.4500</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.4600</SimpleData>
+		<SimpleData name="area_cell">1.0964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.46 89.68,27.46 89.68,27.45 89.67,27.45 89.67,27.46</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">59</SimpleData>
+		<SimpleData name="Maille_Y">6</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.4550</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.4500</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.4600</SimpleData>
+		<SimpleData name="area_cell">1.0964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.46 89.69,27.46 89.69,27.45 89.68,27.45 89.68,27.46</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">60</SimpleData>
+		<SimpleData name="Maille_Y">6</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.4550</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.4500</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.4600</SimpleData>
+		<SimpleData name="area_cell">1.0964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.46 89.7,27.46 89.7,27.45 89.69,27.45 89.69,27.46</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">61</SimpleData>
+		<SimpleData name="Maille_Y">7</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.4650</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.4600</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.4700</SimpleData>
+		<SimpleData name="area_cell">1.0962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.47 89.61,27.47 89.61,27.46 89.6,27.46 89.6,27.47</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">62</SimpleData>
+		<SimpleData name="Maille_Y">7</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.4650</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.4600</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.4700</SimpleData>
+		<SimpleData name="area_cell">1.0962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.47 89.62,27.47 89.62,27.46 89.61,27.46 89.61,27.47</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">63</SimpleData>
+		<SimpleData name="Maille_Y">7</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.4650</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.4600</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.4700</SimpleData>
+		<SimpleData name="area_cell">1.0962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.47 89.63,27.47 89.63,27.46 89.62,27.46 89.62,27.47</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">64</SimpleData>
+		<SimpleData name="Maille_Y">7</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.4650</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.4600</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.4700</SimpleData>
+		<SimpleData name="area_cell">1.0962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.47 89.64,27.47 89.64,27.46 89.63,27.46 89.63,27.47</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">65</SimpleData>
+		<SimpleData name="Maille_Y">7</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.4650</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.4600</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.4700</SimpleData>
+		<SimpleData name="area_cell">1.0963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.47 89.65,27.47 89.65,27.46 89.64,27.46 89.64,27.47</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">66</SimpleData>
+		<SimpleData name="Maille_Y">7</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.4650</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.4600</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.4700</SimpleData>
+		<SimpleData name="area_cell">1.0963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.47 89.66,27.47 89.66,27.46 89.65,27.46 89.65,27.47</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">67</SimpleData>
+		<SimpleData name="Maille_Y">7</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.4650</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.4600</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.4700</SimpleData>
+		<SimpleData name="area_cell">1.0963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.47 89.67,27.47 89.67,27.46 89.66,27.46 89.66,27.47</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">68</SimpleData>
+		<SimpleData name="Maille_Y">7</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.4650</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.4600</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.4700</SimpleData>
+		<SimpleData name="area_cell">1.0963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.47 89.68,27.47 89.68,27.46 89.67,27.46 89.67,27.47</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">69</SimpleData>
+		<SimpleData name="Maille_Y">7</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.4650</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.4600</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.4700</SimpleData>
+		<SimpleData name="area_cell">1.0963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.47 89.69,27.47 89.69,27.46 89.68,27.46 89.68,27.47</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">70</SimpleData>
+		<SimpleData name="Maille_Y">7</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.4650</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.4600</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.4700</SimpleData>
+		<SimpleData name="area_cell">1.0963</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.47 89.7,27.47 89.7,27.46 89.69,27.46 89.69,27.47</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">71</SimpleData>
+		<SimpleData name="Maille_Y">8</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.4750</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.4700</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.4800</SimpleData>
+		<SimpleData name="area_cell">1.0961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.48 89.61,27.48 89.61,27.47 89.6,27.47 89.6,27.48</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">72</SimpleData>
+		<SimpleData name="Maille_Y">8</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.4750</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.4700</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.4800</SimpleData>
+		<SimpleData name="area_cell">1.0961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.48 89.62,27.48 89.62,27.47 89.61,27.47 89.61,27.48</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">73</SimpleData>
+		<SimpleData name="Maille_Y">8</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.4750</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.4700</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.4800</SimpleData>
+		<SimpleData name="area_cell">1.0961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.48 89.63,27.48 89.63,27.47 89.62,27.47 89.62,27.48</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">74</SimpleData>
+		<SimpleData name="Maille_Y">8</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.4750</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.4700</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.4800</SimpleData>
+		<SimpleData name="area_cell">1.0962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.48 89.64,27.48 89.64,27.47 89.63,27.47 89.63,27.48</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">75</SimpleData>
+		<SimpleData name="Maille_Y">8</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.4750</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.4700</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.4800</SimpleData>
+		<SimpleData name="area_cell">1.0962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.48 89.65,27.48 89.65,27.47 89.64,27.47 89.64,27.48</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">76</SimpleData>
+		<SimpleData name="Maille_Y">8</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.4750</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.4700</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.4800</SimpleData>
+		<SimpleData name="area_cell">1.0962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.48 89.66,27.48 89.66,27.47 89.65,27.47 89.65,27.48</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">77</SimpleData>
+		<SimpleData name="Maille_Y">8</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.4750</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.4700</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.4800</SimpleData>
+		<SimpleData name="area_cell">1.0962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.48 89.67,27.48 89.67,27.47 89.66,27.47 89.66,27.48</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">78</SimpleData>
+		<SimpleData name="Maille_Y">8</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.4750</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.4700</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.4800</SimpleData>
+		<SimpleData name="area_cell">1.0962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.48 89.68,27.48 89.68,27.47 89.67,27.47 89.67,27.48</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">79</SimpleData>
+		<SimpleData name="Maille_Y">8</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.4750</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.4700</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.4800</SimpleData>
+		<SimpleData name="area_cell">1.0962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.48 89.69,27.48 89.69,27.47 89.68,27.47 89.68,27.48</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">80</SimpleData>
+		<SimpleData name="Maille_Y">8</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.4750</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.4700</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.4800</SimpleData>
+		<SimpleData name="area_cell">1.0962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.48 89.7,27.48 89.7,27.47 89.69,27.47 89.69,27.48</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">81</SimpleData>
+		<SimpleData name="Maille_Y">9</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.4850</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.4800</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.4900</SimpleData>
+		<SimpleData name="area_cell">1.0960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.49 89.61,27.49 89.61,27.48 89.6,27.48 89.6,27.49</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">82</SimpleData>
+		<SimpleData name="Maille_Y">9</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.4850</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.4800</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.4900</SimpleData>
+		<SimpleData name="area_cell">1.0960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.49 89.62,27.49 89.62,27.48 89.61,27.48 89.61,27.49</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">83</SimpleData>
+		<SimpleData name="Maille_Y">9</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.4850</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.4800</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.4900</SimpleData>
+		<SimpleData name="area_cell">1.0960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.49 89.63,27.49 89.63,27.48 89.62,27.48 89.62,27.49</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">84</SimpleData>
+		<SimpleData name="Maille_Y">9</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.4850</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.4800</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.4900</SimpleData>
+		<SimpleData name="area_cell">1.0961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.49 89.64,27.49 89.64,27.48 89.63,27.48 89.63,27.49</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">85</SimpleData>
+		<SimpleData name="Maille_Y">9</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.4850</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.4800</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.4900</SimpleData>
+		<SimpleData name="area_cell">1.0961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.49 89.65,27.49 89.65,27.48 89.64,27.48 89.64,27.49</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">86</SimpleData>
+		<SimpleData name="Maille_Y">9</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.4850</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.4800</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.4900</SimpleData>
+		<SimpleData name="area_cell">1.0961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.49 89.66,27.49 89.66,27.48 89.65,27.48 89.65,27.49</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">87</SimpleData>
+		<SimpleData name="Maille_Y">9</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.4850</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.4800</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.4900</SimpleData>
+		<SimpleData name="area_cell">1.0961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.49 89.67,27.49 89.67,27.48 89.66,27.48 89.66,27.49</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">88</SimpleData>
+		<SimpleData name="Maille_Y">9</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.4850</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.4800</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.4900</SimpleData>
+		<SimpleData name="area_cell">1.0961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.49 89.68,27.49 89.68,27.48 89.67,27.48 89.67,27.49</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">89</SimpleData>
+		<SimpleData name="Maille_Y">9</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.4850</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.4800</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.4900</SimpleData>
+		<SimpleData name="area_cell">1.0961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.49 89.69,27.49 89.69,27.48 89.68,27.48 89.68,27.49</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">90</SimpleData>
+		<SimpleData name="Maille_Y">9</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.4850</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.4800</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.4900</SimpleData>
+		<SimpleData name="area_cell">1.0961</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.49 89.7,27.49 89.7,27.48 89.69,27.48 89.69,27.49</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">91</SimpleData>
+		<SimpleData name="Maille_Y">10</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.4950</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.4900</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.5000</SimpleData>
+		<SimpleData name="area_cell">1.0959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.5 89.61,27.5 89.61,27.49 89.6,27.49 89.6,27.5</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">92</SimpleData>
+		<SimpleData name="Maille_Y">10</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.4950</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.4900</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.5000</SimpleData>
+		<SimpleData name="area_cell">1.0959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.5 89.62,27.5 89.62,27.49 89.61,27.49 89.61,27.5</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">93</SimpleData>
+		<SimpleData name="Maille_Y">10</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.4950</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.4900</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.5000</SimpleData>
+		<SimpleData name="area_cell">1.0959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.5 89.63,27.5 89.63,27.49 89.62,27.49 89.62,27.5</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">94</SimpleData>
+		<SimpleData name="Maille_Y">10</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.4950</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.4900</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.5000</SimpleData>
+		<SimpleData name="area_cell">1.0960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.5 89.64,27.5 89.64,27.49 89.63,27.49 89.63,27.5</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">95</SimpleData>
+		<SimpleData name="Maille_Y">10</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.4950</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.4900</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.5000</SimpleData>
+		<SimpleData name="area_cell">1.0960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.5 89.65,27.5 89.65,27.49 89.64,27.49 89.64,27.5</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">96</SimpleData>
+		<SimpleData name="Maille_Y">10</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.4950</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.4900</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.5000</SimpleData>
+		<SimpleData name="area_cell">1.0960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.5 89.66,27.5 89.66,27.49 89.65,27.49 89.65,27.5</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">97</SimpleData>
+		<SimpleData name="Maille_Y">10</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.4950</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.4900</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.5000</SimpleData>
+		<SimpleData name="area_cell">1.0960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.5 89.67,27.5 89.67,27.49 89.66,27.49 89.66,27.5</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">98</SimpleData>
+		<SimpleData name="Maille_Y">10</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.4950</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.4900</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.5000</SimpleData>
+		<SimpleData name="area_cell">1.0960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.5 89.68,27.5 89.68,27.49 89.67,27.49 89.67,27.5</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">99</SimpleData>
+		<SimpleData name="Maille_Y">10</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.4950</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.4900</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.5000</SimpleData>
+		<SimpleData name="area_cell">1.0960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.5 89.69,27.5 89.69,27.49 89.68,27.49 89.68,27.5</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">100</SimpleData>
+		<SimpleData name="Maille_Y">10</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.4950</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.4900</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.5000</SimpleData>
+		<SimpleData name="area_cell">1.0960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.5 89.7,27.5 89.7,27.49 89.69,27.49 89.69,27.5</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">101</SimpleData>
+		<SimpleData name="Maille_Y">11</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.5050</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.5000</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.5100</SimpleData>
+		<SimpleData name="area_cell">1.0958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.51 89.61,27.51 89.61,27.5 89.6,27.5 89.6,27.51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">102</SimpleData>
+		<SimpleData name="Maille_Y">11</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.5050</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.5000</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.5100</SimpleData>
+		<SimpleData name="area_cell">1.0958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.51 89.62,27.51 89.62,27.5 89.61,27.5 89.61,27.51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">103</SimpleData>
+		<SimpleData name="Maille_Y">11</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.5050</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.5000</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.5100</SimpleData>
+		<SimpleData name="area_cell">1.0958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.51 89.63,27.51 89.63,27.5 89.62,27.5 89.62,27.51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">104</SimpleData>
+		<SimpleData name="Maille_Y">11</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.5050</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.5000</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.5100</SimpleData>
+		<SimpleData name="area_cell">1.0959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.51 89.64,27.51 89.64,27.5 89.63,27.5 89.63,27.51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">105</SimpleData>
+		<SimpleData name="Maille_Y">11</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.5050</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.5000</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.5100</SimpleData>
+		<SimpleData name="area_cell">1.0959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.51 89.65,27.51 89.65,27.5 89.64,27.5 89.64,27.51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">106</SimpleData>
+		<SimpleData name="Maille_Y">11</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.5050</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.5000</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.5100</SimpleData>
+		<SimpleData name="area_cell">1.0959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.51 89.66,27.51 89.66,27.5 89.65,27.5 89.65,27.51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">107</SimpleData>
+		<SimpleData name="Maille_Y">11</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.5050</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.5000</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.5100</SimpleData>
+		<SimpleData name="area_cell">1.0959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.51 89.67,27.51 89.67,27.5 89.66,27.5 89.66,27.51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">108</SimpleData>
+		<SimpleData name="Maille_Y">11</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.5050</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.5000</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.5100</SimpleData>
+		<SimpleData name="area_cell">1.0959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.51 89.68,27.51 89.68,27.5 89.67,27.5 89.67,27.51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">109</SimpleData>
+		<SimpleData name="Maille_Y">11</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.5050</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.5000</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.5100</SimpleData>
+		<SimpleData name="area_cell">1.0959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.51 89.69,27.51 89.69,27.5 89.68,27.5 89.68,27.51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">110</SimpleData>
+		<SimpleData name="Maille_Y">11</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.5050</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.5000</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.5100</SimpleData>
+		<SimpleData name="area_cell">1.0959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.51 89.7,27.51 89.7,27.5 89.69,27.5 89.69,27.51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">111</SimpleData>
+		<SimpleData name="Maille_Y">12</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.5150</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.5100</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.5200</SimpleData>
+		<SimpleData name="area_cell">1.0957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.52 89.61,27.52 89.61,27.51 89.6,27.51 89.6,27.52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">112</SimpleData>
+		<SimpleData name="Maille_Y">12</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.5150</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.5100</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.5200</SimpleData>
+		<SimpleData name="area_cell">1.0957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.52 89.62,27.52 89.62,27.51 89.61,27.51 89.61,27.52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">113</SimpleData>
+		<SimpleData name="Maille_Y">12</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.5150</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.5100</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.5200</SimpleData>
+		<SimpleData name="area_cell">1.0957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.52 89.63,27.52 89.63,27.51 89.62,27.51 89.62,27.52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">114</SimpleData>
+		<SimpleData name="Maille_Y">12</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.5150</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.5100</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.5200</SimpleData>
+		<SimpleData name="area_cell">1.0958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.52 89.64,27.52 89.64,27.51 89.63,27.51 89.63,27.52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">115</SimpleData>
+		<SimpleData name="Maille_Y">12</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.5150</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.5100</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.5200</SimpleData>
+		<SimpleData name="area_cell">1.0958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.52 89.65,27.52 89.65,27.51 89.64,27.51 89.64,27.52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">116</SimpleData>
+		<SimpleData name="Maille_Y">12</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.5150</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.5100</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.5200</SimpleData>
+		<SimpleData name="area_cell">1.0958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.52 89.66,27.52 89.66,27.51 89.65,27.51 89.65,27.52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">117</SimpleData>
+		<SimpleData name="Maille_Y">12</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.5150</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.5100</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.5200</SimpleData>
+		<SimpleData name="area_cell">1.0958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.52 89.67,27.52 89.67,27.51 89.66,27.51 89.66,27.52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">118</SimpleData>
+		<SimpleData name="Maille_Y">12</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.5150</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.5100</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.5200</SimpleData>
+		<SimpleData name="area_cell">1.0958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.52 89.68,27.52 89.68,27.51 89.67,27.51 89.67,27.52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">119</SimpleData>
+		<SimpleData name="Maille_Y">12</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.5150</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.5100</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.5200</SimpleData>
+		<SimpleData name="area_cell">1.0958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.52 89.69,27.52 89.69,27.51 89.68,27.51 89.68,27.52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">120</SimpleData>
+		<SimpleData name="Maille_Y">12</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.5150</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.5100</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.5200</SimpleData>
+		<SimpleData name="area_cell">1.0958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.52 89.7,27.52 89.7,27.51 89.69,27.51 89.69,27.52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">121</SimpleData>
+		<SimpleData name="Maille_Y">13</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.5250</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.5200</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.5300</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.53 89.61,27.53 89.61,27.52 89.6,27.52 89.6,27.53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">122</SimpleData>
+		<SimpleData name="Maille_Y">13</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.5250</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.5200</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.5300</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.53 89.62,27.53 89.62,27.52 89.61,27.52 89.61,27.53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">123</SimpleData>
+		<SimpleData name="Maille_Y">13</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.5250</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.5200</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.5300</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.53 89.63,27.53 89.63,27.52 89.62,27.52 89.62,27.53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">124</SimpleData>
+		<SimpleData name="Maille_Y">13</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.5250</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.5200</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.5300</SimpleData>
+		<SimpleData name="area_cell">1.0957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.53 89.64,27.53 89.64,27.52 89.63,27.52 89.63,27.53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">125</SimpleData>
+		<SimpleData name="Maille_Y">13</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.5250</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.5200</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.5300</SimpleData>
+		<SimpleData name="area_cell">1.0957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.53 89.65,27.53 89.65,27.52 89.64,27.52 89.64,27.53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">126</SimpleData>
+		<SimpleData name="Maille_Y">13</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.5250</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.5200</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.5300</SimpleData>
+		<SimpleData name="area_cell">1.0957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.53 89.66,27.53 89.66,27.52 89.65,27.52 89.65,27.53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">127</SimpleData>
+		<SimpleData name="Maille_Y">13</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.5250</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.5200</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.5300</SimpleData>
+		<SimpleData name="area_cell">1.0957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.53 89.67,27.53 89.67,27.52 89.66,27.52 89.66,27.53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">128</SimpleData>
+		<SimpleData name="Maille_Y">13</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.5250</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.5200</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.5300</SimpleData>
+		<SimpleData name="area_cell">1.0957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.53 89.68,27.53 89.68,27.52 89.67,27.52 89.67,27.53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">129</SimpleData>
+		<SimpleData name="Maille_Y">13</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.5250</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.5200</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.5300</SimpleData>
+		<SimpleData name="area_cell">1.0957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.53 89.69,27.53 89.69,27.52 89.68,27.52 89.68,27.53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">130</SimpleData>
+		<SimpleData name="Maille_Y">13</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.5250</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.5200</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.5300</SimpleData>
+		<SimpleData name="area_cell">1.0957</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.53 89.7,27.53 89.7,27.52 89.69,27.52 89.69,27.53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">131</SimpleData>
+		<SimpleData name="Maille_Y">14</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.5350</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.5300</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.5400</SimpleData>
+		<SimpleData name="area_cell">1.0955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.54 89.61,27.54 89.61,27.53 89.6,27.53 89.6,27.54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">132</SimpleData>
+		<SimpleData name="Maille_Y">14</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.5350</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.5300</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.5400</SimpleData>
+		<SimpleData name="area_cell">1.0955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.54 89.62,27.54 89.62,27.53 89.61,27.53 89.61,27.54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">133</SimpleData>
+		<SimpleData name="Maille_Y">14</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.5350</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.5300</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.5400</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.54 89.63,27.54 89.63,27.53 89.62,27.53 89.62,27.54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">134</SimpleData>
+		<SimpleData name="Maille_Y">14</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.5350</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.5300</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.5400</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.54 89.64,27.54 89.64,27.53 89.63,27.53 89.63,27.54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">135</SimpleData>
+		<SimpleData name="Maille_Y">14</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.5350</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.5300</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.5400</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.54 89.65,27.54 89.65,27.53 89.64,27.53 89.64,27.54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">136</SimpleData>
+		<SimpleData name="Maille_Y">14</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.5350</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.5300</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.5400</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.54 89.66,27.54 89.66,27.53 89.65,27.53 89.65,27.54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">137</SimpleData>
+		<SimpleData name="Maille_Y">14</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.5350</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.5300</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.5400</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.54 89.67,27.54 89.67,27.53 89.66,27.53 89.66,27.54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">138</SimpleData>
+		<SimpleData name="Maille_Y">14</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.5350</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.5300</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.5400</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.54 89.68,27.54 89.68,27.53 89.67,27.53 89.67,27.54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">139</SimpleData>
+		<SimpleData name="Maille_Y">14</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.5350</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.5300</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.5400</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.54 89.69,27.54 89.69,27.53 89.68,27.53 89.68,27.54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">140</SimpleData>
+		<SimpleData name="Maille_Y">14</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.5350</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.5300</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.5400</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.54 89.7,27.54 89.7,27.53 89.69,27.53 89.69,27.54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">141</SimpleData>
+		<SimpleData name="Maille_Y">15</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.5450</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.5400</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.5500</SimpleData>
+		<SimpleData name="area_cell">1.0954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.55 89.61,27.55 89.61,27.54 89.6,27.54 89.6,27.55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">142</SimpleData>
+		<SimpleData name="Maille_Y">15</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.5450</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.5400</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.5500</SimpleData>
+		<SimpleData name="area_cell">1.0954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.55 89.62,27.55 89.62,27.54 89.61,27.54 89.61,27.55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">143</SimpleData>
+		<SimpleData name="Maille_Y">15</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.5450</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.5400</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.5500</SimpleData>
+		<SimpleData name="area_cell">1.0955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.55 89.63,27.55 89.63,27.54 89.62,27.54 89.62,27.55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">144</SimpleData>
+		<SimpleData name="Maille_Y">15</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.5450</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.5400</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.5500</SimpleData>
+		<SimpleData name="area_cell">1.0955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.55 89.64,27.55 89.64,27.54 89.63,27.54 89.63,27.55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">145</SimpleData>
+		<SimpleData name="Maille_Y">15</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.5450</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.5400</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.5500</SimpleData>
+		<SimpleData name="area_cell">1.0955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.55 89.65,27.55 89.65,27.54 89.64,27.54 89.64,27.55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">146</SimpleData>
+		<SimpleData name="Maille_Y">15</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.5450</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.5400</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.5500</SimpleData>
+		<SimpleData name="area_cell">1.0955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.55 89.66,27.55 89.66,27.54 89.65,27.54 89.65,27.55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">147</SimpleData>
+		<SimpleData name="Maille_Y">15</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.5450</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.5400</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.5500</SimpleData>
+		<SimpleData name="area_cell">1.0955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.55 89.67,27.55 89.67,27.54 89.66,27.54 89.66,27.55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">148</SimpleData>
+		<SimpleData name="Maille_Y">15</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.5450</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.5400</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.5500</SimpleData>
+		<SimpleData name="area_cell">1.0955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.55 89.68,27.55 89.68,27.54 89.67,27.54 89.67,27.55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">149</SimpleData>
+		<SimpleData name="Maille_Y">15</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.5450</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.5400</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.5500</SimpleData>
+		<SimpleData name="area_cell">1.0955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.55 89.69,27.55 89.69,27.54 89.68,27.54 89.68,27.55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">150</SimpleData>
+		<SimpleData name="Maille_Y">15</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.5450</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.5400</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.5500</SimpleData>
+		<SimpleData name="area_cell">1.0956</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.55 89.7,27.55 89.7,27.54 89.69,27.54 89.69,27.55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">151</SimpleData>
+		<SimpleData name="Maille_Y">16</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.5550</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.5500</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.5600</SimpleData>
+		<SimpleData name="area_cell">1.0953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.56 89.61,27.56 89.61,27.55 89.6,27.55 89.6,27.56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">152</SimpleData>
+		<SimpleData name="Maille_Y">16</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.5550</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.5500</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.5600</SimpleData>
+		<SimpleData name="area_cell">1.0953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.56 89.62,27.56 89.62,27.55 89.61,27.55 89.61,27.56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">153</SimpleData>
+		<SimpleData name="Maille_Y">16</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.5550</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.5500</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.5600</SimpleData>
+		<SimpleData name="area_cell">1.0954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.56 89.63,27.56 89.63,27.55 89.62,27.55 89.62,27.56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">154</SimpleData>
+		<SimpleData name="Maille_Y">16</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.5550</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.5500</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.5600</SimpleData>
+		<SimpleData name="area_cell">1.0954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.56 89.64,27.56 89.64,27.55 89.63,27.55 89.63,27.56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">155</SimpleData>
+		<SimpleData name="Maille_Y">16</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.5550</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.5500</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.5600</SimpleData>
+		<SimpleData name="area_cell">1.0954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.56 89.65,27.56 89.65,27.55 89.64,27.55 89.64,27.56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">156</SimpleData>
+		<SimpleData name="Maille_Y">16</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.5550</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.5500</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.5600</SimpleData>
+		<SimpleData name="area_cell">1.0954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.56 89.66,27.56 89.66,27.55 89.65,27.55 89.65,27.56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">157</SimpleData>
+		<SimpleData name="Maille_Y">16</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.5550</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.5500</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.5600</SimpleData>
+		<SimpleData name="area_cell">1.0954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.56 89.67,27.56 89.67,27.55 89.66,27.55 89.66,27.56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">158</SimpleData>
+		<SimpleData name="Maille_Y">16</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.5550</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.5500</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.5600</SimpleData>
+		<SimpleData name="area_cell">1.0954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.56 89.68,27.56 89.68,27.55 89.67,27.55 89.67,27.56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">159</SimpleData>
+		<SimpleData name="Maille_Y">16</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.5550</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.5500</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.5600</SimpleData>
+		<SimpleData name="area_cell">1.0954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.56 89.69,27.56 89.69,27.55 89.68,27.55 89.68,27.56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">160</SimpleData>
+		<SimpleData name="Maille_Y">16</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.5550</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.5500</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.5600</SimpleData>
+		<SimpleData name="area_cell">1.0955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.56 89.7,27.56 89.7,27.55 89.69,27.55 89.69,27.56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">161</SimpleData>
+		<SimpleData name="Maille_Y">17</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.5650</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.5600</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.5700</SimpleData>
+		<SimpleData name="area_cell">1.0952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.57 89.61,27.57 89.61,27.56 89.6,27.56 89.6,27.57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">162</SimpleData>
+		<SimpleData name="Maille_Y">17</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.5650</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.5600</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.5700</SimpleData>
+		<SimpleData name="area_cell">1.0952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.57 89.62,27.57 89.62,27.56 89.61,27.56 89.61,27.57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">163</SimpleData>
+		<SimpleData name="Maille_Y">17</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.5650</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.5600</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.5700</SimpleData>
+		<SimpleData name="area_cell">1.0953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.57 89.63,27.57 89.63,27.56 89.62,27.56 89.62,27.57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">164</SimpleData>
+		<SimpleData name="Maille_Y">17</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.5650</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.5600</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.5700</SimpleData>
+		<SimpleData name="area_cell">1.0953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.57 89.64,27.57 89.64,27.56 89.63,27.56 89.63,27.57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">165</SimpleData>
+		<SimpleData name="Maille_Y">17</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.5650</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.5600</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.5700</SimpleData>
+		<SimpleData name="area_cell">1.0953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.57 89.65,27.57 89.65,27.56 89.64,27.56 89.64,27.57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">166</SimpleData>
+		<SimpleData name="Maille_Y">17</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.5650</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.5600</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.5700</SimpleData>
+		<SimpleData name="area_cell">1.0953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.57 89.66,27.57 89.66,27.56 89.65,27.56 89.65,27.57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">167</SimpleData>
+		<SimpleData name="Maille_Y">17</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.5650</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.5600</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.5700</SimpleData>
+		<SimpleData name="area_cell">1.0953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.57 89.67,27.57 89.67,27.56 89.66,27.56 89.66,27.57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">168</SimpleData>
+		<SimpleData name="Maille_Y">17</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.5650</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.5600</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.5700</SimpleData>
+		<SimpleData name="area_cell">1.0953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.57 89.68,27.57 89.68,27.56 89.67,27.56 89.67,27.57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">169</SimpleData>
+		<SimpleData name="Maille_Y">17</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.5650</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.5600</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.5700</SimpleData>
+		<SimpleData name="area_cell">1.0953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.57 89.69,27.57 89.69,27.56 89.68,27.56 89.68,27.57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">170</SimpleData>
+		<SimpleData name="Maille_Y">17</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.5650</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.5600</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.5700</SimpleData>
+		<SimpleData name="area_cell">1.0954</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.57 89.7,27.57 89.7,27.56 89.69,27.56 89.69,27.57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">171</SimpleData>
+		<SimpleData name="Maille_Y">18</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.5750</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.5700</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.5800</SimpleData>
+		<SimpleData name="area_cell">1.0951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.58 89.61,27.58 89.61,27.57 89.6,27.57 89.6,27.58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">172</SimpleData>
+		<SimpleData name="Maille_Y">18</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.5750</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.5700</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.5800</SimpleData>
+		<SimpleData name="area_cell">1.0951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.58 89.62,27.58 89.62,27.57 89.61,27.57 89.61,27.58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">173</SimpleData>
+		<SimpleData name="Maille_Y">18</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.5750</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.5700</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.5800</SimpleData>
+		<SimpleData name="area_cell">1.0952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.58 89.63,27.58 89.63,27.57 89.62,27.57 89.62,27.58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">174</SimpleData>
+		<SimpleData name="Maille_Y">18</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.5750</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.5700</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.5800</SimpleData>
+		<SimpleData name="area_cell">1.0952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.58 89.64,27.58 89.64,27.57 89.63,27.57 89.63,27.58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">175</SimpleData>
+		<SimpleData name="Maille_Y">18</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.5750</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.5700</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.5800</SimpleData>
+		<SimpleData name="area_cell">1.0952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.58 89.65,27.58 89.65,27.57 89.64,27.57 89.64,27.58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">176</SimpleData>
+		<SimpleData name="Maille_Y">18</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.5750</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.5700</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.5800</SimpleData>
+		<SimpleData name="area_cell">1.0952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.58 89.66,27.58 89.66,27.57 89.65,27.57 89.65,27.58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">177</SimpleData>
+		<SimpleData name="Maille_Y">18</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.5750</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.5700</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.5800</SimpleData>
+		<SimpleData name="area_cell">1.0952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.58 89.67,27.58 89.67,27.57 89.66,27.57 89.66,27.58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">178</SimpleData>
+		<SimpleData name="Maille_Y">18</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.5750</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.5700</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.5800</SimpleData>
+		<SimpleData name="area_cell">1.0952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.58 89.68,27.58 89.68,27.57 89.67,27.57 89.67,27.58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">179</SimpleData>
+		<SimpleData name="Maille_Y">18</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.5750</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.5700</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.5800</SimpleData>
+		<SimpleData name="area_cell">1.0952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.58 89.69,27.58 89.69,27.57 89.68,27.57 89.68,27.58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">180</SimpleData>
+		<SimpleData name="Maille_Y">18</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.5750</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.5700</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.5800</SimpleData>
+		<SimpleData name="area_cell">1.0953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.58 89.7,27.58 89.7,27.57 89.69,27.57 89.69,27.58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">181</SimpleData>
+		<SimpleData name="Maille_Y">19</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.5850</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.5800</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.5900</SimpleData>
+		<SimpleData name="area_cell">1.0950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.59 89.61,27.59 89.61,27.58 89.6,27.58 89.6,27.59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">182</SimpleData>
+		<SimpleData name="Maille_Y">19</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.5850</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.5800</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.5900</SimpleData>
+		<SimpleData name="area_cell">1.0950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.59 89.62,27.59 89.62,27.58 89.61,27.58 89.61,27.59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">183</SimpleData>
+		<SimpleData name="Maille_Y">19</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.5850</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.5800</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.5900</SimpleData>
+		<SimpleData name="area_cell">1.0951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.59 89.63,27.59 89.63,27.58 89.62,27.58 89.62,27.59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">184</SimpleData>
+		<SimpleData name="Maille_Y">19</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.5850</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.5800</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.5900</SimpleData>
+		<SimpleData name="area_cell">1.0951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.59 89.64,27.59 89.64,27.58 89.63,27.58 89.63,27.59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">185</SimpleData>
+		<SimpleData name="Maille_Y">19</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.5850</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.5800</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.5900</SimpleData>
+		<SimpleData name="area_cell">1.0951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.59 89.65,27.59 89.65,27.58 89.64,27.58 89.64,27.59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">186</SimpleData>
+		<SimpleData name="Maille_Y">19</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.5850</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.5800</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.5900</SimpleData>
+		<SimpleData name="area_cell">1.0951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.59 89.66,27.59 89.66,27.58 89.65,27.58 89.65,27.59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">187</SimpleData>
+		<SimpleData name="Maille_Y">19</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.5850</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.5800</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.5900</SimpleData>
+		<SimpleData name="area_cell">1.0951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.59 89.67,27.59 89.67,27.58 89.66,27.58 89.66,27.59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">188</SimpleData>
+		<SimpleData name="Maille_Y">19</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.5850</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.5800</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.5900</SimpleData>
+		<SimpleData name="area_cell">1.0951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.59 89.68,27.59 89.68,27.58 89.67,27.58 89.67,27.59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">189</SimpleData>
+		<SimpleData name="Maille_Y">19</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.5850</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.5800</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.5900</SimpleData>
+		<SimpleData name="area_cell">1.0951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.59 89.69,27.59 89.69,27.58 89.68,27.58 89.68,27.59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">190</SimpleData>
+		<SimpleData name="Maille_Y">19</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.5850</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.5800</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.5900</SimpleData>
+		<SimpleData name="area_cell">1.0952</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.59 89.7,27.59 89.7,27.58 89.69,27.58 89.69,27.59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">191</SimpleData>
+		<SimpleData name="Maille_Y">20</SimpleData>
+		<SimpleData name="Maille_X">1</SimpleData>
+		<SimpleData name="X">89.6050</SimpleData>
+		<SimpleData name="Y">27.5950</SimpleData>
+		<SimpleData name="X1">89.6000</SimpleData>
+		<SimpleData name="Y1">27.5900</SimpleData>
+		<SimpleData name="X2">89.6100</SimpleData>
+		<SimpleData name="Y2">27.6000</SimpleData>
+		<SimpleData name="area_cell">1.0949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.6,27.6 89.61,27.6 89.61,27.59 89.6,27.59 89.6,27.6</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">192</SimpleData>
+		<SimpleData name="Maille_Y">20</SimpleData>
+		<SimpleData name="Maille_X">2</SimpleData>
+		<SimpleData name="X">89.6150</SimpleData>
+		<SimpleData name="Y">27.5950</SimpleData>
+		<SimpleData name="X1">89.6100</SimpleData>
+		<SimpleData name="Y1">27.5900</SimpleData>
+		<SimpleData name="X2">89.6200</SimpleData>
+		<SimpleData name="Y2">27.6000</SimpleData>
+		<SimpleData name="area_cell">1.0949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.61,27.6 89.62,27.6 89.62,27.59 89.61,27.59 89.61,27.6</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">193</SimpleData>
+		<SimpleData name="Maille_Y">20</SimpleData>
+		<SimpleData name="Maille_X">3</SimpleData>
+		<SimpleData name="X">89.6250</SimpleData>
+		<SimpleData name="Y">27.5950</SimpleData>
+		<SimpleData name="X1">89.6200</SimpleData>
+		<SimpleData name="Y1">27.5900</SimpleData>
+		<SimpleData name="X2">89.6300</SimpleData>
+		<SimpleData name="Y2">27.6000</SimpleData>
+		<SimpleData name="area_cell">1.0950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.62,27.6 89.63,27.6 89.63,27.59 89.62,27.59 89.62,27.6</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">194</SimpleData>
+		<SimpleData name="Maille_Y">20</SimpleData>
+		<SimpleData name="Maille_X">4</SimpleData>
+		<SimpleData name="X">89.6350</SimpleData>
+		<SimpleData name="Y">27.5950</SimpleData>
+		<SimpleData name="X1">89.6300</SimpleData>
+		<SimpleData name="Y1">27.5900</SimpleData>
+		<SimpleData name="X2">89.6400</SimpleData>
+		<SimpleData name="Y2">27.6000</SimpleData>
+		<SimpleData name="area_cell">1.0950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.63,27.6 89.64,27.6 89.64,27.59 89.63,27.59 89.63,27.6</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">195</SimpleData>
+		<SimpleData name="Maille_Y">20</SimpleData>
+		<SimpleData name="Maille_X">5</SimpleData>
+		<SimpleData name="X">89.6450</SimpleData>
+		<SimpleData name="Y">27.5950</SimpleData>
+		<SimpleData name="X1">89.6400</SimpleData>
+		<SimpleData name="Y1">27.5900</SimpleData>
+		<SimpleData name="X2">89.6500</SimpleData>
+		<SimpleData name="Y2">27.6000</SimpleData>
+		<SimpleData name="area_cell">1.0950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.64,27.6 89.65,27.6 89.65,27.59 89.64,27.59 89.64,27.6</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">196</SimpleData>
+		<SimpleData name="Maille_Y">20</SimpleData>
+		<SimpleData name="Maille_X">6</SimpleData>
+		<SimpleData name="X">89.6550</SimpleData>
+		<SimpleData name="Y">27.5950</SimpleData>
+		<SimpleData name="X1">89.6500</SimpleData>
+		<SimpleData name="Y1">27.5900</SimpleData>
+		<SimpleData name="X2">89.6600</SimpleData>
+		<SimpleData name="Y2">27.6000</SimpleData>
+		<SimpleData name="area_cell">1.0950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.65,27.6 89.66,27.6 89.66,27.59 89.65,27.59 89.65,27.6</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">197</SimpleData>
+		<SimpleData name="Maille_Y">20</SimpleData>
+		<SimpleData name="Maille_X">7</SimpleData>
+		<SimpleData name="X">89.6650</SimpleData>
+		<SimpleData name="Y">27.5950</SimpleData>
+		<SimpleData name="X1">89.6600</SimpleData>
+		<SimpleData name="Y1">27.5900</SimpleData>
+		<SimpleData name="X2">89.6700</SimpleData>
+		<SimpleData name="Y2">27.6000</SimpleData>
+		<SimpleData name="area_cell">1.0950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.66,27.6 89.67,27.6 89.67,27.59 89.66,27.59 89.66,27.6</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">198</SimpleData>
+		<SimpleData name="Maille_Y">20</SimpleData>
+		<SimpleData name="Maille_X">8</SimpleData>
+		<SimpleData name="X">89.6750</SimpleData>
+		<SimpleData name="Y">27.5950</SimpleData>
+		<SimpleData name="X1">89.6700</SimpleData>
+		<SimpleData name="Y1">27.5900</SimpleData>
+		<SimpleData name="X2">89.6800</SimpleData>
+		<SimpleData name="Y2">27.6000</SimpleData>
+		<SimpleData name="area_cell">1.0950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.67,27.6 89.68,27.6 89.68,27.59 89.67,27.59 89.67,27.6</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">199</SimpleData>
+		<SimpleData name="Maille_Y">20</SimpleData>
+		<SimpleData name="Maille_X">9</SimpleData>
+		<SimpleData name="X">89.6850</SimpleData>
+		<SimpleData name="Y">27.5950</SimpleData>
+		<SimpleData name="X1">89.6800</SimpleData>
+		<SimpleData name="Y1">27.5900</SimpleData>
+		<SimpleData name="X2">89.6900</SimpleData>
+		<SimpleData name="Y2">27.6000</SimpleData>
+		<SimpleData name="area_cell">1.0950</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.68,27.6 89.69,27.6 89.69,27.59 89.68,27.59 89.68,27.6</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grids_thimphu">
+		<SimpleData name="Maille">200</SimpleData>
+		<SimpleData name="Maille_Y">20</SimpleData>
+		<SimpleData name="Maille_X">10</SimpleData>
+		<SimpleData name="X">89.6950</SimpleData>
+		<SimpleData name="Y">27.5950</SimpleData>
+		<SimpleData name="X1">89.6900</SimpleData>
+		<SimpleData name="Y1">27.5900</SimpleData>
+		<SimpleData name="X2">89.7000</SimpleData>
+		<SimpleData name="Y2">27.6000</SimpleData>
+		<SimpleData name="area_cell">1.0951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>89.69,27.6 89.7,27.6 89.7,27.59 89.69,27.59 89.69,27.6</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
